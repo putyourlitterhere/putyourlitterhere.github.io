@@ -8,4 +8,4 @@ Pumuckl is a red-haired Kobold and descendant of the Klabautermänner. He is inv
 * red-haired
 * Klabautermann
 
-> "Ich bin schlau und ruehre Kakao"
+> Ich bin schlau und ruehre Kakao
