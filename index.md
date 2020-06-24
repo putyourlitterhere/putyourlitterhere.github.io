@@ -9,3 +9,5 @@ Pumuckl is a red-haired Kobold and descendant of the Klabautermänner. He is inv
 * Klabautermann
 
 > Ich bin schlau und ruehre Kakao
+
+<img src="https://en.wikipedia.org/wiki/Meister_Eder_und_sein_Pumuckl#/media/File:Pumuckl_and_Gustl_Bayrhammer_as_Meister_Eder.jpg"/>)
